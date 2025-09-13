@@ -1,1 +1,1 @@
-# Doc-classification
+# Document Categorizer
