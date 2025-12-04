@@ -1,5 +1,6 @@
 .venv
 
 out_pages/
+layout_results/
 
 pdf-document-layout-analysis/
